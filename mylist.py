@@ -1,5 +1,3 @@
-# plp.python-wk2
-
 # Create an empty list
 my_list = []
 
